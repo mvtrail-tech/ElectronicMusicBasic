@@ -1,5 +1,6 @@
 # Table of contents
 
-* [ElectronicMusicBasic](README.md)
+* [电子音乐基础](README.md)
 * [数字音频基础概念](digital_audio_basic.md)
+* [MIDI编程基础](midi_develop_basic.md)
 
